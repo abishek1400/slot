@@ -1,4 +1,4 @@
-# Ex02 Time Table
+# Ex04 Time Table
 ## Date:21-11-2026
 
 ## AIM
@@ -28,6 +28,8 @@ Execute the program using runserver command.
 
 ## PROGRAM
 ```
+slot.html
+
 <html>
 <head>
     <title>Document</title>
@@ -161,8 +163,7 @@ Execute the program using runserver command.
 
 
 ## OUTPUT
-![alt text](image.png)
-
+![alt text](image-1.png)
 
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
